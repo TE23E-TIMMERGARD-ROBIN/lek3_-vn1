@@ -1,0 +1,38 @@
+/* Robin Timmergård TE23E */
+
+h1{
+    color: darkblue;
+    background-color: lightblue;
+    text-align: right;
+}
+
+body{
+    background-image: url(./moorish-pattern.jpg);
+    display: flex;
+    flex-direction: column;
+}
+
+ul{
+    background-color: darkblue;
+
+}   
+
+a{
+    color: yellow;
+
+}
+
+a:hover{
+    color: coral;
+    background-color: aqua;
+}
+
+a:active{
+    color: greenyellow;
+    background-color: tomato;
+}
+
+img{
+    height: 400px;
+    width: 400px;
+}
